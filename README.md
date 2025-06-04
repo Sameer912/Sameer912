@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sameer912
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in integrating machine learning concepts to mechanical systems 
 - 🌱 I’m currently learning Myself
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me sameerthakuri912@icloud.com
